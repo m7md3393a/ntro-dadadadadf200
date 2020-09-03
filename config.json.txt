@@ -1,0 +1,3 @@
+{
+"presence":true,"selfbot":true,
+"blacklisted":["","","635530716851208202"]}
